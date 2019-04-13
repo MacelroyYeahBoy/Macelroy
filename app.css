@@ -1,0 +1,20 @@
+header, footer {
+	background-color: #000000;
+	color: #ddd;
+	padding: 20px;
+	text-align: center;
+	vertical-align: middle;
+}
+aside {
+	padding-top: 10px;
+	font-weight: bold;
+}
+
+.title {
+	
+}
+
+body {
+	background-color: #000000;
+	color: #ddd;
+}
